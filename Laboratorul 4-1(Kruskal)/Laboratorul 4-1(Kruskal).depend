@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1534441274 source:c:\users\claua\desktop\ag\laboratorul 4-1(kruskal)\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1534370084 source:c:\users\claua\desktop\ag\laborator3-2(centrurazadiametru)\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<queue>
+

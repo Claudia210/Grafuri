@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1534455385 source:c:\users\claua\desktop\ag\laborator 4\main.cpp
+	<iostream>
+	<fstream>
+	<algorithm>
+	<queue>
+	<vector>
+

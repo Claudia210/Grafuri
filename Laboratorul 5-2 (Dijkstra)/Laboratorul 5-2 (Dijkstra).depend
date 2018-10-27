@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1534704471 source:c:\users\claua\desktop\ag\laboratorul 5-2 (dijkstra)\main.cpp
+	<iostream>
+	<vector>
+	<queue>
+	<fstream>
+	<algorithm>
+
